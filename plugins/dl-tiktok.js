@@ -18,7 +18,7 @@ await conn.reply(m.chat, `Downloading media from Tiktok`, 0, {
      }}
   })
 let txt = `🚀 *Link:* ${await(await axios.get(`https://tinyurl.com/api-create.php?url=${args[0]}`)).data}` 
-    await conn.send2ButtonVid(m.chat, `https://api.lolhuman.xyz/api/tiktokwm?apikey=7f460892564629f8cdcb271aad&url=${args[0]}` , txt, wm, `No Wm`, `.tiktoknowm ${args[0]}`, `Audio`, `.tiktokaudio ${args[0]}`, m, { contextInfo: {
+    await conn.send2ButtonVid(m.chat, `https://api.lolhuman.xyz/api/tiktokwm?apikey=7f460892564629f8cdcb271a&url=${args[0]}` , txt, wm, `No Wm`, `.tiktoknowm ${args[0]}`, `Audio`, `.tiktokaudio ${args[0]}`, m, { contextInfo: {
     externalAdReply :{
     showAdAttribution: true,
     title: 'Nih Kak Video Tiktoknya',
