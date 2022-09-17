@@ -8,15 +8,11 @@ let handler = async (m, { conn, usedPrefix }) => {
       extendedTextMessage: {
       text: `
 ╭─「 Donasi • Dana 」
-│ • im3 [085822347348]
-│ • axis  [083843192208]
-│ • Dana  [085822347348]
-│ • Saweria  [https://saweria.co/arullofc]
+│ • im3 [085806008049]
+│ • Dana  [085806008040]
 ╰────
 ╭─「 *NOTE* 」
-│ > Ingin donasi? Wa.me/6285822347348
-│ _Hasil donasi akan digunakan buat sewa_
-│ _atau beli *RDP/VPS* agar bot bisa jalan_
+│ > Ingin donasi? Wa.me/6285806008040
 │ _24jam tanpa kendala_
 ╰────
 `,
