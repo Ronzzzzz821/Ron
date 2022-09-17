@@ -19,7 +19,7 @@ conn.relayMessage(m.chat,  {
 │ *Agama    :* 
 | *Status   :* 
 ╰═════ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ━ ━ ꪶ ཻུ۪۪ꦽꦼ̷⸙
-wa.me/arull
+wa.me/Roni
 `,
       contextInfo: {
       externalAdReply: {
